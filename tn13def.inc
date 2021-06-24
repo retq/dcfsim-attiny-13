@@ -1,5 +1,5 @@
 ;***** THIS IS A MACHINE GENERATED FILE - DO NOT EDIT ********************
-;***** Created: 2011-02-09 12:03 ******* Source: ATtiny13.xml ************
+;***** Created: 2021 ******* Source: ATtiny13.xml ************
 ;*************************************************************************
 ;* A P P L I C A T I O N   N O T E   F O R   T H E   A V R   F A M I L Y
 ;* 
