@@ -6,9 +6,8 @@
 ;* Number            : AVR000
 ;* File Name         : "tn13def.inc"
 ;* Title             : Register/Bit Definitions for the ATtiny13
-;* Date              : 2011-02-09
+;* Date              : 2021
 ;* Version           : 2.35
-;* Support E-mail    : avr@atmel.com
 ;* Target MCU        : ATtiny13
 ;* 
 ;* DESCRIPTION
